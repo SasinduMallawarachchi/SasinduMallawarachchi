@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sasindu-mallawarachchi-500136217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sasindu-mallawarachchi-500136217/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sasi.rastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sasi.rastha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczm9_iv_iehv5oxh-45uisw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczm9_iv_iehv5oxh-45uisw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sasindu-mallawarachchi-500136217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasindu-mallawarachchi-500136217/" height="30" width="40" /></a>
+<a href="https://fb.com/sasi.rastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasi.rastha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uczm9_iv_iehv5oxh-45uisw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczm9_iv_iehv5oxh-45uisw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
