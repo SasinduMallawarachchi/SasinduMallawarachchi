@@ -155,8 +155,9 @@
 
 <a href="https://github.com/SasinduMallawarachchi/github-readme-activity-graph"><img alt="Sasindu Mallawarachchi's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SasinduMallawarachchi&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a>
 
+<h3>Watch my contribution graph get eaten by the snake 🐍</h3> 
 
-
+![snake gif](https://github.com/SasinduMallawarachchi/SasinduMallawarachchi/blob/output/github-snake-dark.svg)
 <br>
 </div>
 
@@ -205,8 +206,8 @@
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png?raw=true"/>
 </div>
 
-<div>
-  ![snake gif](https://github.com/SasinduMallawarachchi/SasinduMallawarachchi/blob/output/ocean.gif%3Fcolor_snake%3Dorange%26color_dots%3D%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9b-snake.gif)
-</div align="center">
+
+  
+
 
 
