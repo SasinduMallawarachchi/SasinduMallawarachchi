@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nadun Dilshan</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sasindu Mallawarachchi</h1>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1100&height=38&lines=HI+there%2C+I'm+Nadun+Dilshan;a+Web+Developer;a+Software+Engineer;SLIIT+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1100&height=38&lines=HI+there%2C+I'm+Sasindu+Mallawarachchi;a+Web+Developer;a+Software+Engineer;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 ###
 
@@ -153,7 +153,7 @@
 </td></tr>
 </table>
 
-<a href="https://github.com/Nadun/github-readme-activity-graph"><img alt="Nadun's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a>
+<a href="https://github.com/SasinduMallawarachchi/github-readme-activity-graph"><img alt="Sasindu Mallawarachchi's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a>
 
 
 
