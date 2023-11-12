@@ -205,6 +205,5 @@
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png?raw=true"/>
 </div>
 
-<h3 align="left">Commitment</h3>
 ![snake gif](https://github.com/SasinduMallawarachchi/SasinduMallawarachchi/blob/output/github-contribution-grid-snake.gif)
 
