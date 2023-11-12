@@ -153,7 +153,7 @@
 </td></tr>
 </table>
 
-<a href="https://github.com/SasinduMallawarachchi/github-readme-activity-graph"><img alt="Sasindu Mallawarachchi's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a>
+<a href="https://github.com/SasinduMallawarachchi/github-readme-activity-graph"><img alt="Sasindu Mallawarachchi's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SasinduMallawarachchi&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a>
 
 
 
