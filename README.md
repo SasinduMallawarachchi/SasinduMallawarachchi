@@ -159,7 +159,8 @@
 
 <br>
 </div>
-![snake gif](https://github.com/SasinduMallawarachchi/SasinduMallawarachchi/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/SasinduMallawarachchi/SasinduMallawarachchi/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
