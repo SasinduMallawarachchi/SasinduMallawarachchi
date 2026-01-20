@@ -147,13 +147,11 @@
 <tr><td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SasinduMallawarachchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=true&border_radius=25" width="100%" alt="languages graph" />
 </td>
-<td align="top" width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=SasinduMallawarachchi&row=2&column=4&theme=onedark&no-frame=true&no-bg=false&margin-h=4&margin-w=4" width="100%"/>
 
 </td></tr>
 </table>
 
-<a href="https://github.com/SasinduMallawarachchi/github-readme-activity-graph"><img alt="Sasindu Mallawarachchi's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SasinduMallawarachchi&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a>
+<!-- <a href="https://github.com/SasinduMallawarachchi/github-readme-activity-graph"><img alt="Sasindu Mallawarachchi's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SasinduMallawarachchi&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="290" width="" style="border-radius: 25px"/></a> -->
 
 <h3>Watch my contribution graph get eaten by the snake 🐍</h3> 
 
@@ -163,39 +161,33 @@
 
 <br>
 
-<h3 align="left">🤝 Connect with me</h3>
+<!-- <h3 align="left">🤝 Connect with me</h3>
 
 ###
 
 <div align="center">
   <a href="mailto:sasindu199928@gmail.com" target="_blank">
     <img src="https://icon-library.com/images/apps-gmail.svg.svg" height="45" alt="gmail logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />-->
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/sasindu-mallawarachchi" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo"  />
-  <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />-->
   </a>
   &nbsp;
   <a href="https://www.facebook.com/sasi.rastha" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" height="45" alt="facebook logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />-->
   </a>
   &nbsp;
   <a href="https://instagram.com/sasindu_2020" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />-->
   </a>
   &nbsp;
   <a href="discordapp.com/users/_sasindu" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />-->
   </a>
   &nbsp;
   <a href="https://twitter.com/..." target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />-->
   </a>
 </div>
 
@@ -204,7 +196,7 @@
 <br>
 <div align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png?raw=true"/>
-</div>
+</div> -->
 
 
   
